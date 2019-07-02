@@ -4,6 +4,8 @@
   }
 
   &__link {
+    @include apply-utility('font', 'serif');
+    font-size: get-size(800);
     &,
     &:visited {
       color: var(--color-theme-primary);

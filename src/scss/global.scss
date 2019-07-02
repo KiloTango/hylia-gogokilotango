@@ -12,7 +12,7 @@
 @import 'typography';
 
 /**
- * GLOBAL STYLES 
+ * GLOBAL STYLES
  */
 body {
   scroll-behavior: smooth;
@@ -53,3 +53,5 @@ hr {
 @import 'components/skip-link';
 @import 'components/syntax-highlighting';
 @import 'components/video-player';
+
+@import 'kt/kt-extras';

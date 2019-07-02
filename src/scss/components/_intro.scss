@@ -1,12 +1,13 @@
 .intro {
   background: var(--color-theme-highlight-block);
+  color: var(--color-bg);
 
   &__summary {
     --flow-space: #{get-size(500)};
     font-size: get-size(500);
 
     a {
-      color: currentColor;
+      color: var(--color-text);
 
       &:hover {
         text-decoration: none;
@@ -16,7 +17,7 @@
 
   &__heading {
     max-width: 40ex;
-    color: var(--color-theme-feature-text);
+    color: var(--color-bg);
 
     &--compact {
       max-width: 20ex;
