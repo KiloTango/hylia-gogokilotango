@@ -2,6 +2,8 @@
   &__site-name {
     @include apply-utility('font', 'serif');
     text-decoration: none;
-    color: var(--color-text);
+    // color: var(--color-text);
+    color: var(--color-text-yell);
+    font-size: get-size(800);
   }
 }

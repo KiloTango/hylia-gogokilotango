@@ -1,7 +1,12 @@
 .site-foot {
   // Reverse whatever the theme colors are
   background: var(--color-slate);
-  color: var(--color-text);
+  // color: var(--color-text-yell);
+  color: get-color('mid');
+
+  p {
+    color: get-color('highlight');
+  }
 
   a {
     color: currentColor;
