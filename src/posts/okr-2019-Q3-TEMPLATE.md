@@ -1,5 +1,5 @@
 ---
-title: Weekly checkin - 2019Q3 Week the THING
+title: Weekly checkin - 2019Q3 Week the TEMPLATE
 date: '2099-07-22'
 tags:
   - Weekly checkin
