@@ -67,7 +67,7 @@ I've also given myself permission to edit these goals as I go if I discover them
 - Set up tomorrow morning before you go to bed.
 - Read or use podcasts instead of video before going to sleep.
 
-## Aright then...
+## Alright then...
 
 So let's see how this set works out. I'm hoping this will give me a bit of breathing room, while also turning some of the things I'm using to track my goals into _ways of actually doing them_ instead of being yet another thing on the to-do list.
 
