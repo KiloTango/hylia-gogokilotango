@@ -9,14 +9,12 @@ tags:
 
 ## How did it go?
 
-
 ## Did you do the things?
-- **Upskilling:**
-- **Practice & Writing:**
-- **Music:**
-- **Tidying, filing, email:**
-- **Personal work:**
-
+- Upskilling:
+- Practice & Writing:
+- Music:
+- Tidying, filing, email:
+- Personal work:
 
 ## What did you read/watch/listen to? What did you learn?
 
