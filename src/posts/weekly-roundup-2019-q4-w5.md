@@ -8,24 +8,24 @@ tags:
 ---
 
 ## How did it go?
-As is probably evidenced by how late this one is, last week (and a bit of this week) was a bit of a reminder that sometimes you can't do _all_ the things, and that actually intentionally letting yourself rest rather than guilt-tripping yourself is something that you really need to make yourself do. As an SAD sufferer, the weather hit me real hard and coming to the end of what has been a fairly manic set of recording—as well as a couple of emotional, burnout related things—meant I basically crashed like a really badly stacked pile of washing up.
+As is probably evidenced by how late this one is, last week (and a bit of this week) was a bit of a reminder that sometimes you can't do _all_ the things, and that actually intentionally letting yourself rest rather than guilt-tripping yourself is something that you really need to make yourself do. As an SAD sufferer, the weather hit me real hard and coming to the end of what has been a fairly manic set of recording—as well as a couple of emotional, burnout related things—meant I basically crashed like a really badly stacked pile of washing up when you add that one pan lid in exactly wrong.
 
-But I think it's important to be honest about this stuff. I knew winter would be difficult. I always manage to underestimate the exact ways it kicks me in the head. And that means I need to shift my expectations, try and make sure I can actually recharge, and be a little more forgiving of myself because being angry/guilty at not doing things all the time means that 'rest' isn't rest, it's just sitting around grinding your self esteem into dust and that doesn't help anyone.
+But I think it's important to be honest about this stuff. I knew winter would be difficult. I always manage to underestimate the exact ways it kicks me in the head. And that means I need to shift my expectations, try and make sure I can actually recharge, and be a little more forgiving of myself because being angry/guilty at not doing things all the time means that 'rest' isn't rest, it's just sitting around grinding your self esteem into dust, and that doesn't help anyone.
 
 
 ## Did you do the things?
-- **Upskilling:** While my actually recording the details of what I've been studing has been intensely lax, I did actually go through a lot of stuff.
+- **Upskilling:** While my actually recording the details of what I've been studing has been intensely lax, I did actually go through a decent amount of stuff.
 - **Practice & Writing:** Thiiiiiis one kinda fell of a cliff.
 - **Music:** Plenty of recording, finishing off our [final track for the Mantradeva comic](https://youtu.be/gjI5dZsrkBc) (which also serves as an album announcement!) It's been a heck of a ride on that project and while there's still a couple of tracks to do for the album it'll be nice to come at it at a more gentle pace... she said, as if she hadn't also gone straight into one of those at the weekend.
-- **Tidying, filing, email:** This also got pretty slack to be honest. My journaling also got flakey.
-- **Personal work:** Surprisingly, I did manage to fit in a few Pomodoros of hacking around in eleventy, and managed set myself up some Gulp-based Sass for it. That was pretty satisfying. Sticking time for that in at the start of my freelance days is a good feeling and feels like right way to go about this.
+- **Tidying, filing, email:** This got pretty slack as well, to be honest. My journaling also got flakey.
+- **Personal work:** Surprisingly, I did manage to fit in a few pomodoros of hacking around in Eleventy, and managed set myself up some Gulp-based Sass for it. That was pretty satisfying. Sticking time for that in at the start of my freelance days is a good feeling and feels like right way to go about this.
 
 Okay so writing that out I'm aware that I'm yelling about not doing enough while evidently doing quite a lot (I also went to see [The Midnight](https://www.youtube.com/watch?v=_14cb1xCY-4), who were amazing!) and actually it's more that I stopped doing my workouts and have not been making notes worth a damn on my upskilling. So hey, I guess this is your seasonal reminder that if you're frustrated with yourself, take a moment to look at the stuff you _have_ been doing rather than kicking yourself in the shins over what you haven't. &#9829;
 
 
 ## What did you read/watch/listen to? What did you learn?
 
-Because I don't want to make this any later than it already is and because at this point I'd have to rewatch/listen to a lot of them to get a good point by point breakdown, letting myself keep this one a bit briefer
+Because I don't want to make this any later than it already is and because at this point I'd have to rewatch/listen to a lot of them to get a good point by point breakdown, I'm keeping this one a bit briefer.
 
 - [Function Podcast: American as Apple Pie: How Racism Gets Baked into Technology](https://glitch.com/culture/function-episode-16/).
  	- This was actually from last week but my notes got a bit confused. However it's so important I want to include it here. A brilliant look into how bias gets into our tech, just a brutally sharp takedown of the notion that algorithms are politically neutral. All code is written by people, and people are biased. An idea from it that struck me really hard, is that algorithms that are based on existing data can never be more just than the current system. So when inequality runs through that data, by using it unquestioningly, you will always perpetuate those injustices. If like me you're a white person working in or around tech, you _need_ to listen to this. I'm looking forward to working through the backlog of this podcast.
@@ -39,9 +39,9 @@ Because I don't want to make this any later than it already is and because at th
 
 ## Next week then?
 
-So writing this halfway through the week feels like cheating but in what I have left, the goal is to be a little more gentle with myself, scale back what I'm doing slightly and try to actually recover as opposed to my previous tactic of claiming to do that while simultaneously beating myself up for being so lazy as to actually take the evening off after doing a full day's work. I know, the sheer idleness right? Awful.
+So writing this halfway through the week feels like cheating but in what I have left, the goal is to be a little more gentle with myself, scale back what I'm doing slightly and try to actually recover as opposed to my previous tactic of claiming to do that while simultaneously beating myself up for being so lazy as to actually take the evening off after doing a full day's work. I know, _the sheer idleness_, right?? Awful.
 
-Whoever needs to hear it, you don't have to be doing all the things, all the time. Rest is important too. _You_ are important too. The weather is getting cruel, so be even more kind to yourself.
+Anyway, whoever needs to hear it, you don't have to be doing all the things, all the time. Rest is important too. _You_ are important too. The weather is getting cruel, so be even more kind to yourself.
 
 Good luck.
 
