@@ -1,6 +1,6 @@
 ---
 title: Weekly Round Up - 2019Q4 Week the Sixth
-date: '2019-11-18'
+date: '2019-12-18'
 tags:
   - Weekly checkin
   - Reflection
