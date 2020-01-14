@@ -1,5 +1,5 @@
 ---
-title: Weekly Round Up - 2020Q4 Week the First
+title: Weekly Roundup Time - 2020 Q1 - Week the First
 date: '2020-01-14'
 tags:
   - Weekly checkin
